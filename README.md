@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>PhysioAI – AI-Powered Home Physiotherapy & Rehabilitation</h1>
+  <h1>ReMotion – AI-Powered Home Physiotherapy & Rehabilitation</h1>
 
   <p>
     <strong>Real-time AI-guided exercise sessions for physiotherapy patients</strong><br>
@@ -95,4 +95,5 @@ Feel free to use, modify, distribute, or even sell parts of this code (with attr
 
 ❤️ Built with love in Chennai
 Shivani & team – January 2026
+
 
