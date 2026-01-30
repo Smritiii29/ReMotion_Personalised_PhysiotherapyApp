@@ -9,13 +9,13 @@
 
   <p>
     <a href="https://github.com/Smritiii29/ReMotion_Personalised_PhysiotherapyApp">
-      <img src="https://img.shields.io/github/stars/yourusername/physio-ai?style=social" alt="GitHub stars">
+      <img src="https://img.shields.io/github/stars/Smritiii29/ReMotion_Personalised_PhysiotherapyApp?style=social" alt="GitHub stars">
     </a>
     <a href="https://github.com/Smritiii29/ReMotion_Personalised_PhysiotherapyApp">
-      <img src="https://img.shields.io/github/license/yourusername/physio-ai" alt="License">
+      <img src="https://img.shields.io/github/license/Smritiii29/ReMotion_Personalised_PhysiotherapyApp" alt="License">
     </a>
     <a href="https://github.com/Smritiii29/ReMotion_Personalised_PhysiotherapyApp">
-      <img src="https://img.shields.io/github/issues/yourusername/physio-ai" alt="Issues">
+      <img src="https://img.shields.io/github/issues/Smritiii29/ReMotion_Personalised_PhysiotherapyApp" alt="Issues">
     </a>
   </p>
 
@@ -95,3 +95,4 @@ Feel free to use, modify, distribute, or even sell parts of this code (with attr
 
 ❤️ Built with love in Chennai
 Shivani & team – January 2026
+
